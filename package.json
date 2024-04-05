@@ -1,7 +1,7 @@
 {
   "name": "shehnny-regular-calculator",
   "version": "1.0.0",
-  "description": "A simple-calculator with typescript, node.js, and Inquirer",
+  "description": "A simple-calculator made with the help of typescript, node.js, and Inquirer",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",
