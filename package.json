@@ -1,6 +1,6 @@
 {
   "name": "shehnny-regular-calculator",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A simple-calculator made with the help of typescript, node.js, and Inquirer",
   "main": "index.js",
   "type": "module",
@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "inquirer": "^9.2.17",
-    "shehnny-regular-calculator": "^1.0.0"
+    "shehnny-regular-calculator": "^2.0.0"
   },
   "devDependencies": {
     "@types/inquirer": "^9.0.7"
