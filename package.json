@@ -1,6 +1,6 @@
 {
   "name": "mary-shehnny-regular-calculator",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A simple-calculator with typescript, node.js, and Inquirer",
   "main": "index.js",
   "type": "module",
